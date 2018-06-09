@@ -1,0 +1,6 @@
+#include "resources.h"
+
+IDD_ADVANCEDOPTIONS DIALOGEX 50, 50, 200, 200 [ , 99]
+{
+	
+}
